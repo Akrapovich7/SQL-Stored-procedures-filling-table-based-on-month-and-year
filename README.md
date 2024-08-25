@@ -1,2 +1,10 @@
 # SQL-Stored-procedures-filling-table-based-on-month-and-year
-In this Postgresql query I made a stored procedure that fills up the table based of choosen month and year*easy and readable code*
+In this Postgresql query I made a stored procedure that fills up the table based of choosen month and year /easy and readable code/
+1-creating a table(meisterbetrieb) with all data thats needed for this query to work(joins to get all data in one place and filtering)
+2-creating a procedure using procedure syntax
+3-using month(MM) and year(YYYY) as variables in my prodecure
+4.inserting all the data into the table(based on information(MM and YYYY) using procedure
+5.calling my prodecure
+6.choosing a MM and YYYY
+7.selecting all(*) from my table that is now filled with all the data that includes MM and YYYY thats choosen before
+I HOPE YOU FOUND THIS CODE HELPFULL!
